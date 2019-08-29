@@ -9,3 +9,6 @@ In root folder
 --> npm install
 In client folder
 --> npm install
+
+Run the following command in root directory:
+--> npm run dev
