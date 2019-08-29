@@ -1,0 +1,11 @@
+Please visit this link for the project described in Ques3
+
+https://bbc-news-reader.herokuapp.com/
+
+
+Instructions for project:
+Run the following commands
+In root folder
+--> npm install
+In client folder
+--> npm install

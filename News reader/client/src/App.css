@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Signika&display=swap');
+.App {
+  text-align: center;
+}
+
+.logo{
+  width: 10em;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.myCard{
+  margin-bottom: 32px;
+  border:none;
+  box-shadow: 0 10px 16px 0 rgba(224, 224, 224, 0.4),0 6px 20px 0 rgba(202, 202, 202, 0.4) !important;
+}
+.myCard p{
+  color: rgb(255, 136, 0);
+}
+
+.profile{
+  margin-bottom: 24px;
+}
+.sidenav {
+  height: 100%;
+  width: 250px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: rgb(219, 129, 11);
+  overflow-x: hidden;
+  padding-top: 20px;
+  color:white;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #f1f1f1;
+  text-decoration: underline;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #00b7ff
+}
+.sidenav h2{
+  margin-bottom:40px;
+}
+
+.tech-stack{
+  margin-top:32px;
+}
+
+.list-group{
+  margin-top:20px;
+}
+.list-group-item{
+  background-color: inherit;
+  font-size: 18px;
+  color: #fff;
+  border-style: solid;
+  border-left-style: none;
+  border-color:white;
+  border-right-style: none;
+}
